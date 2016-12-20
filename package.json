@@ -1,0 +1,16 @@
+{
+  "name": "remote-siphon",
+  "description": "easy-to-use data extraction library for clustered and distributed web scraping",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "dependencies": {
+    "siphonjs": "^1.0.3",
+    "request": "^2.79.0",
+    "url-parse": "^1.1.7",
+    "cheerio": "^0.22.0",
+    "redis": "^2.6.3",
+    "selenium-webdriver": "^3.0.1"
+  }
+}
