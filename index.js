@@ -1,3 +1,5 @@
 const siphon = require('siphonjs');
 
-siphon().setRedis('6379', '138.68.48.182', 'siphontestingnodejsforcodesmith').run();
+
+//add your Redis server connection information below. Port, IP, and password are omitted if local
+siphon().setRedis(PORT, IP ADDRESS, PASSWORD).run();
